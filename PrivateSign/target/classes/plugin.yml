@@ -1,0 +1,6 @@
+name: PrivateSign
+version: '1.0.0'
+main: solarsmp.privatesign.PrivateSign
+api-version: '1.19'
+author: coco
+description: cancels any interaction with signs if their first line says [LOCK] or [More users]
